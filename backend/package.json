@@ -1,0 +1,23 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumayaZaid369/Myproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumayaZaid369/Myproject/issues"
+  },
+  "homepage": "https://github.com/SumayaZaid369/Myproject#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
+  }
+}
